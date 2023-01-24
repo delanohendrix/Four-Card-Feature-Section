@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-s-QRtz8lJw)
 - Live Site URL: [GitHub Pages](https://delanohendrix.github.io/Four-Card-Feature-Section/)
 
 ## My process
