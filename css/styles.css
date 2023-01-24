@@ -121,6 +121,9 @@ main {
     max-width: 535px;
     margin: 0 auto;
   }
+  .top-content h1 {
+    font-size: 36px;
+  }
   .card-container {
     display: flex;
     align-items: center;
